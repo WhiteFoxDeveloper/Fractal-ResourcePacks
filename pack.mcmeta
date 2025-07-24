@@ -1,13 +1,8 @@
 {
    "pack": {
 		"pack_format": 57,
-		"supported_formats": {"min_inclusive": 5, "max_inclusive": 57},
-		"description": [{"text":"
-		Drinks for breveryX
-		Fonts for Server
-		","color":"#11683fff"},
-		{"text":"
-		Created by Sharp1x and ArcosFox for FRACTAL PROJECT
-		","color":"blue"}]
+		"supported_formats": {"min_inclusive": 5, "max_inclusive": 99},
+		
+		"description": {"text":" Resourcepack for\n FRACTAL PROJECT","color":"#3098a0"}
    }
 }
