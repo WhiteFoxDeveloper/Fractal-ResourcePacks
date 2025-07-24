@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/tab_header.png",
+            "ascent": 0,
+            "height": 15,
+            "chars": [
+                "\u0466"
+            ]
+        }
+    ]
+}
