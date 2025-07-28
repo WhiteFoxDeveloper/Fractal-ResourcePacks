@@ -1,2 +1,2 @@
 # Fractal-ResourcePacks
-Ресурспак проекта FRACTAL PROJECT
+Ресурспаки проекта FRACTAL PROJECT
